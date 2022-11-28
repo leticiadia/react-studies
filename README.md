@@ -67,7 +67,7 @@
 <p>Um bundler muito utilizado no universo JavaScript é o Webpack.</p>
 <p>Webpack é um bundler usado para pegar arquivos gerados pelo React e converter para um único arquivo ara que o browser (navegador) possa entender e executar.</p>
 
-<p>Apesar de alguns browsers terem suporte a importação de modules JS, o Webpack ainda se faz bastante necessário m alguns casos.</p>
+<p>Apesar de alguns browsers terem suporte a importação de modules JS, o Webpack ainda se faz bastante necessário em alguns casos.</p>
 
 ## 📌 Tecnologias Utilizadas
 
