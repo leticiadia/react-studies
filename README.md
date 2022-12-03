@@ -40,7 +40,7 @@
 
 <p>O SSR (Server-side Rendering) é um dos métodos de renderização de conteúdo na web. Nesse método, o que acontece é que gera HTML completo para o conteúdo da página ser renderizado como resposta para o usuário que fez a requisição.</p>
 
-<p>Em outras palavras, quando o usuário requisita um paǵina da nossa aplicação, por exemplo, o servidor busca por essa página no banco de dados (que é onde está todo o código backend e frontend), depois ele retorna todo esse conteúdo da página pronto para o navegador rendizar em tela.</p>
+<p>Em outras palavras, quando o usuário requisita uma paǵina da nossa aplicação, por exemplo, o servidor busca por essa página no banco de dados (que é onde está todo o código backend e frontend), depois ele retorna todo esse conteúdo da página pronto para o navegador rendizar em tela.</p>
 
 **Exemplo:**
 
@@ -50,7 +50,7 @@
 
 <p>O SPA (Single Page Application) é um outro método de renderização de conteúdo na web. Nesse método, o que acontece é que quando o usuário faz uma requisição para acessar a rota posts (que seria uma listagem de posts), o backend vai buscar no banco de dados a listagem dos posts, não tendo mais que armazenado todo código backend e frontend da aplicação, apenas os dados necessários para mostrar em tela.</p>
 
-<p>É importante ressaltar que os dados eles são retornados em um formato JSON. Dessa forma, o mesmo JSOn ele pode ser usado para renderizar uma página pelo ReactJS e para múltiplas plataformas, como: IOS/Android pelo React Native, por exemplo.</p>
+<p>É importante ressaltar que os dados eles são retornados em um formato JSON. Dessa forma, o mesmo JSON ele pode ser usado para renderizar uma página pelo ReactJS e para múltiplas plataformas, como: IOS/Android pelo React Native, por exemplo.</p>
 
 **Exemplo:**
 <img src="src/assets/SPA.png">
@@ -65,7 +65,7 @@
 **Bundlers:**
 
 <p>Um bundler muito utilizado no universo JavaScript é o Webpack.</p>
-<p>Webpack é um bundler usado para pegar arquivos gerados pelo React e converter para um único arquivo ara que o browser (navegador) possa entender e executar.</p>
+<p>Webpack é um bundler usado para pegar arquivos gerados pelo React e converter para um único arquivo para que o browser (navegador) possa entender e executar.</p>
 
 <p>Apesar de alguns browsers terem suporte a importação de modules JS, o Webpack ainda se faz bastante necessário em alguns casos.</p>
 
